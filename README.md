@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake Game
 Python Application
 
 
